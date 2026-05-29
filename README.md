@@ -1,12 +1,12 @@
-# Karnal e a Legião: Diálogo entre Filosofia e IA
+# Karnal e a Legião - Diálogo entre Filosofia e IA
 
 Este repositório reúne uma versão textual organizada do diálogo apresentado pelo professor e filósofo Leandro Karnal com a inteligência artificial Claude, originalmente publicado em vídeo no YouTube.
 
 O objetivo deste material é contribuir para a difusão do conteúdo em formato escrito, facilitando o acesso de pessoas que preferem a leitura, desejam estudar o diálogo com maior atenção ou necessitam de uma versão textual para consulta, reflexão e análise.
 
-## Referência ao vídeo original
+## Acesse o material
 
-O conteúdo deste repositório tem como referência o vídeo publicado no canal do professor Leandro Karnal:
+**Texto em PDF:** [Karnal e a Legião - Diálogo entre Filosofia e IA](./Karnal-e-a-Legiao-Dialogo-entre-Filosofia-e-IA.pdf)
 
 **Vídeo original:** [https://www.youtube.com/watch?v=5uGP97AmMHY](https://www.youtube.com/watch?v=5uGP97AmMHY)
 
@@ -41,7 +41,7 @@ A organização textual aqui disponibilizada deve ser compreendida como um mater
 
 ## Título do material
 
-**Karnal e a Legião: Diálogo entre Filosofia e IA**
+**Karnal e a Legião - Diálogo entre Filosofia e IA**
 
 O título busca sintetizar a força simbólica do encontro entre a tradição filosófica, representada pela figura do pensador, e a multiplicidade das inteligências artificiais contemporâneas, compreendidas como uma “legião” de vozes algorítmicas que interrogam, refletem e desafiam a condição humana.
 
@@ -54,5 +54,4 @@ Este repositório pode ser utilizado para:
 - discussão sobre ética, tecnologia e pensamento crítico;
 - organização de material textual a partir de conteúdo audiovisual;
 - reflexão sobre os impactos culturais e intelectuais da IA.
-
 
